@@ -1,0 +1,11 @@
+{
+ "name": "fs",
+ "version": "3.24.10",
+ "main": "fs.min.js",
+ "description": "'fs' nodejs core module browserify-ied with `--standalone fs`.\nSupports all module systems (commonjs, AMD & `window.fs`) - check browserify docs.",
+ "keywords": [
+  "nodejs",
+  "browserify",
+  "fs"
+ ]
+}
